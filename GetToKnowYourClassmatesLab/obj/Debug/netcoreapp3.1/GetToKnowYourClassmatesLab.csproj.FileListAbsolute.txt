@@ -1,0 +1,13 @@
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.exe
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.deps.json
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.runtimeconfig.json
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.runtimeconfig.dev.json
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.dll
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.pdb
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.csprojAssemblyReference.cache
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.csproj.CoreCompileInputs.cache
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.AssemblyInfoInputs.cache
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.AssemblyInfo.cs
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.dll
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.pdb
+C:\Users\forne\source\repos\CSHARP\GetToKnowYourClassmatesLab\GetToKnowYourClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowYourClassmatesLab.genruntimeconfig.cache
