@@ -17,10 +17,12 @@ namespace GetToKnowYourClassmatesLab
                 bool running1 = true;
                 int index = 0;
                 string student = "";
+                Console.WriteLine();
                 foreach (string name in students)
                 {
                     Console.Write(name + " ");
                 }
+                Console.WriteLine();
                 while (running1)
                 {
                     Console.WriteLine();
@@ -58,14 +60,12 @@ namespace GetToKnowYourClassmatesLab
                         {
                             Console.WriteLine();
                             Console.WriteLine($"{input} is not a number or a name in the class!");
-                            Console.WriteLine();
                             break;
                         }
                         catch (Exception e)
                         {
                             Console.WriteLine();
                             Console.WriteLine(e.Message);
-                            Console.WriteLine();
                             break;
                         }
                     }
@@ -124,7 +124,6 @@ namespace GetToKnowYourClassmatesLab
                     {
                         if (answer == "y")
                         {
-                            Console.WriteLine();
                             break;
                         }
                         if (answer == "n")
@@ -147,6 +146,11 @@ namespace GetToKnowYourClassmatesLab
                     }
                 }
             }
+        }
+
+        private static void println(string[] color)
+        {
+            throw new NotImplementedException();
         }
     }
 }
